@@ -6,6 +6,9 @@
 	/*------------section3-------------*/
 aside{
 	background-color: #fff;
+	font-size: 20px;
+	width: 60%;
+	padding-bottom:90px;
 	
 }
  .img{
@@ -14,6 +17,92 @@ height: 600px;
 margin-left: 40px;
 }
 .Text{
-	text
-	margin-left:px;
+	
+	margin-left:35%;
+}
+.p{font-size:15.5px;
+	margin-left:40px;
+}
+span{color: #D3D3D3;}
+h1{padding-top: 40px;}
+.btn{
+	padding: 12px;
+	background-color: #fff;
+	margin-left:42px;
+}
+.btn-noir{
+	padding:12px;
+	background-color: #111;
+	color: #fff;
+	margin-left:70%;
+}
+.imges img{
+	width:150px;
+	margin-left:40px;
+}
+.imges p{
+	display: flex;
+	justify-content: end;
+	margin-right:40%;
+	margin-top: -90px;
+}
+/*---------section3-----------------*/
+.section3{background-color: ;
+	display: flex;
+	justify-content: flex-end;
+	margin-top: -72%;
+}
+.img1{
+	width:500px;
+}
+.color{
+	background-color: #111;
+	color: #fff;
+	font-size:15px;
+	padding: 30px;
+	margin-top: -10px;
+}
+.color h3{margin-top:15px;}
+.color p{margin-top: -10px;font-size: 20px;}
+/*-----------bloc-----------*/
+.bloc{margin-top:40px;}
+.bloc .blanc{
+	background-color: white;
+	padding: 20px;
+	margin-top: -20px;
+}
+.bloc .hover:hover{
+	cursor: pointer;
+	transition: 0.1;
+	background-color:#D3D3D3;
+}
+.bloc h3{background-color: #111;color: #fff;padding: 25px;}
+.bloc .image1{
+	width:60px;
+}
+
+.bloc .flex1{
+	display: flex;
+	justify-content:end;
+	margin-right:58%;
+	margin-top: -60px;font-size: 18px;
+}
+.bloc .flex2{
+	display: flex;
+	justify-content:end;
+	margin-right:59%;
+	margin-top: -60px;font-size: 18px;
+}
+.bloc .flex3{
+	display: flex;
+	justify-content:end;
+	margin-right:56%;
+	margin-top: -60px;font-size: 18px;
+}
+.bloc .flex4{
+	display: flex;
+	justify-content:end;
+	margin-right:48%;
+	font-size: 18px;
+	margin-top: -60px;
 }
